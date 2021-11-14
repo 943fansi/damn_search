@@ -11,7 +11,9 @@
   - Haoyi Zhou, et al.
   - [[Code](https://github.com/zhouhaoyi/Informer2020)]
 
-
+- [Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting](https://arxiv.org/abs/2009.05135) AAAI2021
+  - Farnoosh, et al.
+  - [[Code](https://github.com/ostadabbas/DSARF)]
 
 ### 2021 KDD
 
