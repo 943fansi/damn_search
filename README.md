@@ -14,5 +14,5 @@
 | ----- | ----- | ----- | ----- |
 
 ### blog
-| [learn opencv](https://learnopencv.com/) |
-| ----- |
+| [learn opencv](https://learnopencv.com/) |[peterbloem](http://peterbloem.nl/blog/)|[dream home](https://dreamhomes.top/archives/)|
+| ----- | ----- | ----- |
