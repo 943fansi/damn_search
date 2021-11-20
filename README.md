@@ -15,6 +15,6 @@
 |[Patent download](https://www.drugfuture.com/cnpat/cn_patent.asp)
 
 ### blog
-| [learn opencv](https://learnopencv.com/) |[peterbloem](http://peterbloem.nl/blog/)|[dream home](https://dreamhomes.top/archives/)|
-| ----- | ----- | ----- |
+| [learn opencv](https://learnopencv.com/) |[towardsdatascience](https://towardsdatascience.com/)|[peterbloem](http://peterbloem.nl/blog/)|[dream home](https://dreamhomes.top/archives/)|
+| ----- | ----- | ----- | ----- |
 |[karpathy](http://karpathy.github.io/)|
