@@ -10,3 +10,7 @@
 | [nasa](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) |
 | ------ | 
 
+### small tool
+|[learn vocabulary](https://qwerty.kaiyi.cool/)|
+| ----- |
+
