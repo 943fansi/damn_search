@@ -11,6 +11,6 @@
 | ------ | 
 
 ### small tool
-|[learn vocabulary](https://qwerty.kaiyi.cool/)|[code img](https://codeimg.io/)|
-| ----- | ----- |
+|[learn vocabulary](https://qwerty.kaiyi.cool/)|[code img](https://codeimg.io/)|[avatar making](https://notion-avatar.vercel.app/zh)|
+| ----- | ----- | ----- |
 
