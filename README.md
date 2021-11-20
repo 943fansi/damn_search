@@ -12,6 +12,7 @@
 ### small tool
 |[learn vocabulary](https://qwerty.kaiyi.cool/)|[code img](https://codeimg.io/)|[avatar making](https://notion-avatar.vercel.app/zh)|[generate data](https://generatedata.com/)
 | ----- | ----- | ----- | ----- |
+|[Patent download](https://www.drugfuture.com/cnpat/cn_patent.asp)
 
 ### blog
 | [learn opencv](https://learnopencv.com/) |[peterbloem](http://peterbloem.nl/blog/)|[dream home](https://dreamhomes.top/archives/)|
