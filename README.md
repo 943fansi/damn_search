@@ -1,7 +1,6 @@
 ## collections
 
 ### search paper
-#### 
 | [arxiv](https://arxiv.org/) | [sci-hub](https://sci-hub.shop/) | [google scholar](https://ac.scmor.com/) |[semantic scholar](https://www.semanticscholar.org/) | [blyun](http://lib.gdufe.edu.cn/digitalresource/linkProxy.htm?id=61000000281&resourceId=275) | [CNKI](https://oversea.cnki.net/index/)
 | ------ | ------ | ------ |------ |------ |------ |
 | [libgen](https://www.libgen.is/scimag/) |[zlibrary](https://booksc.org/) |[Patent search](http://www.soopat.com/Home/)| | | |
@@ -11,6 +10,9 @@
 | ------ | 
 
 ### small tool
-|[learn vocabulary](https://qwerty.kaiyi.cool/)|[code img](https://codeimg.io/)|[avatar making](https://notion-avatar.vercel.app/zh)|
-| ----- | ----- | ----- |
+|[learn vocabulary](https://qwerty.kaiyi.cool/)|[code img](https://codeimg.io/)|[avatar making](https://notion-avatar.vercel.app/zh)|[generate data](https://generatedata.com/)
+| ----- | ----- | ----- | ----- |
 
+### blog
+| [learn opencv](https://learnopencv.com/) |
+| ----- |
