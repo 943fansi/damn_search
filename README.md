@@ -16,3 +16,4 @@
 ### blog
 | [learn opencv](https://learnopencv.com/) |[peterbloem](http://peterbloem.nl/blog/)|[dream home](https://dreamhomes.top/archives/)|
 | ----- | ----- | ----- |
+|[karpathy](http://karpathy.github.io/)|
