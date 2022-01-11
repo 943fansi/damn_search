@@ -13,7 +13,7 @@
 ### small tool
 |[learn vocabulary](https://qwerty.kaiyi.cool/)|[code img](https://codeimg.io/)|[avatar making](https://notion-avatar.vercel.app/zh)|[generate data](https://generatedata.com/)
 | ----- | ----- | ----- | ----- |
-|[Patent download](https://www.drugfuture.com/cnpat/cn_patent.asp)|[linux cool](https://www.linuxcool.com/)|
+|[Patent download](https://www.drugfuture.com/cnpat/cn_patent.asp)|[linux cool](https://www.linuxcool.com/)|[tableconvert](https://tableconvert.com/excel-to-markdown)
 
 ### blog
 | [learn opencv](https://learnopencv.com/) |[towardsdatascience](https://towardsdatascience.com/)|[peterbloem](http://peterbloem.nl/blog/)|[dream home](https://dreamhomes.top/archives/)|
